@@ -6,15 +6,19 @@ This repository contains my SIEM (Security Information & Event Management) assig
 
 ## 📁 Repository Structure
 
+
 SIEM-Assignment/
 │
+|__README.md
+|
 ├── Elastic/
-│ ├── screenshots/ # Contains all Elastic screenshots
-│ └── elastic-report.pdf # Final Elastic PDF Report
-│
+│ ├── screenshots # Contains all Elastic screenshots
+│ 
 └── Splunk/
-├── screenshots/ # Contains all Splunk screenshots
-└── splunk-report.pdf # Final Splunk PDF Report
+|  ├── screenshots/ # Contains all Splunk screenshots
+|
+|__Report/
+   |__CS02
 
 
 ---
