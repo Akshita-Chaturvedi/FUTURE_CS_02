@@ -73,10 +73,7 @@ Included screenshots:
 - Healthy Elastic Agent in Fleet  
 - Discover view showing `filestream.generic` logs  
 - Visualizations (Pie, Bar, Table)  
-- Final Dashboard  
-
-📄 Full detailed report:  
-📌 `/Elastic/elastic-report.pdf`
+- Final Dashboard
 
 ---
 
@@ -117,10 +114,13 @@ Included screenshots:
 - Add Data  
 - Search & Reporting  
 - SPL queries  
-- Dashboard visualizations  
+- Dashboard visualizations
 
-📄 Full detailed report:  
-📌 `/Splunk/splunk-report.pdf`
+---
+
+# 🟦 Part 3 – REPORT
+## 📄 Full detailed report:  
+📌 `/CS02.pdf`
 
 ---
 
