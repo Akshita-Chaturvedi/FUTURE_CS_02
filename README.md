@@ -8,14 +8,16 @@ This repository contains my SIEM (Security Information & Event Management) assig
 
 SIEM-Assignment/
 │
+|__README.md
+|
 ├── Elastic/
 │ ├── screenshots/ # Contains all Elastic screenshots
-│ └── elastic-report.pdf # Final Elastic PDF Report
-│
+│ 
 └── Splunk/
-├── screenshots/ # Contains all Splunk screenshots
-└── splunk-report.pdf # Final Splunk PDF Report
-
+|  ├── screenshots/ # Contains all Splunk screenshots
+|
+|__Report/
+   |__CS02
 
 ---
 
@@ -71,8 +73,6 @@ Included screenshots:
 - Visualizations (Pie, Bar, Table)  
 - Final Dashboard  
 
-📄 Full detailed report:  
-📌 `/Elastic/elastic-report.pdf`
 
 ---
 
@@ -113,10 +113,14 @@ Included screenshots:
 - Add Data  
 - Search & Reporting  
 - SPL queries  
-- Dashboard visualizations  
+- Dashboard visualizations
 
-📄 Full detailed report:  
-📌 `/Splunk/splunk-report.pdf`
+---
+
+
+# 🟦 Part 3 – REPORT
+## 📄 Full detailed report:  
+📌 `/CS02.pdf`
 
 ---
 
