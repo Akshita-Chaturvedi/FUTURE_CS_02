@@ -75,8 +75,6 @@ Included screenshots:
 - Visualizations (Pie, Bar, Table)  
 - Final Dashboard  
 
-📄 Full detailed report:  
-📌 `/Elastic/elastic-report.pdf`
 
 ---
 
@@ -117,10 +115,13 @@ Included screenshots:
 - Add Data  
 - Search & Reporting  
 - SPL queries  
-- Dashboard visualizations  
+- Dashboard visualizations
+  
+---
 
-📄 Full detailed report:  
-📌 `/Splunk/splunk-report.pdf`
+# 🟦 Part 3 – REPORT
+## 📄 Full detailed report:  
+📌 `/CS02.pdf`
 
 ---
 
